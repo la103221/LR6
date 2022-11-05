@@ -4,6 +4,7 @@
 В личное хранилище на github был скопирован репозиторий с помощью Fork
 
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/0.1.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/0.PNG)
 
 Был скачан Git и введены имя пользователя и почта.
@@ -35,6 +36,7 @@
 Теперь можно посмотреть лог в данной ветке
 
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/7.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/8.PNG)
 
 
@@ -61,13 +63,17 @@
 Этот порядок действий мы применяем три раза (создаем 3 файла)
 
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/12.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/13.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/14.PNG)
 
 >первый файл
 
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/15.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/16.PNG)
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/17.PNG)
 
 >второй файл + проверка
