@@ -52,6 +52,7 @@
 
 Наконец, можно закоммитить изменения командой `git commit -m`, где -m используется для добавления комментария в консоли
 Ненужную ветку удаляем командой `git branch -d`
+
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/11.PNG)
 
 
@@ -99,3 +100,7 @@
 Далее для написания отчета открывается для работы файл README.md с помощью команды `notepad README.md`
 
 ![](https://github.com/la103221/LR6v2/blob/record/Screenshots/23.PNG)
+
+Лог команд
+
+![](https://github.com/la103221/LR6v2/blob/record/Screenshots/24.PNG)
